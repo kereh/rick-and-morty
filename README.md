@@ -21,3 +21,7 @@ pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+## About this website
+
+This website was created from the results of my learning about Next.js data fetching from the https://www.rickandmorty.com endpoint url
