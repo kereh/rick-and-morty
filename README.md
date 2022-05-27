@@ -24,4 +24,4 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 ## About this website
 
-This website was created from the results of my learning about Next.js data fetching from the https://www.rickandmorty.com endpoint url
+This website was created from the results of my learning about Next.js data fetching from the https://www.rickandmortyapi.com endpoint url
